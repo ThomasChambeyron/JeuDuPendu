@@ -2,7 +2,7 @@
 
 Le jeu du pendu est un classique jeu de devinettes où le joueur tente de deviner un mot en proposant des lettres à tour de rôle. Chaque lettre correctement devinée est révélée dans le mot, tandis que les lettres incorrectes réduisent le nombre de chances du joueur. Le but est de deviner le mot complet avant d'épuiser toutes les chances.
 
-## **Fonctionnement du jeu****
+## **Fonctionnement du jeu**
 
 ### **Choix du mot :** 
 Le jeu sélectionne aléatoirement un mot à partir d'une liste de mots stockée dans un fichier texte.
